@@ -10,10 +10,12 @@ https://github.com/VazquezLab/.github/tree/main
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+This is the [Vazquez Lab](https://lab.vazquez.bio) GitHub Repo! In addition to hosting repos associated with lab projects, this org page also hosts Wikis and FAQs for the Vazquez Lab, plus other resources.
+
 # VIS (Very Important Spreadsheets
 
-1. [Cell Culture Log](https://docs.google.com/spreadsheets/d/1r7vtnx4kZ8BWG5RkK3RbMQlHORterDLoI-ohQ4Ujxuk/edit?usp=sharing)
-2. [Bat Sample Collection Sheet](https://docs.google.com/spreadsheets/d/18tWiWcpl7m1aFg0aEWct2BVajQnL0oz4j0pxqZBClSQ/edit?usp=sharing)
-3. [Myotis Genome Origin Spreadsheet](https://docs.google.com/spreadsheets/d/1DJctPKAd9TQOLNnmGXP8t0TPAEe4-CICus9QZ7IYsCU/edit?usp=sharing)
-4. [Vazquez Bat Experience Log](https://docs.google.com/spreadsheets/d/1VfF0xdaoGdIQPWFEjPX89IshsVBhNlrP/edit?usp=sharing&ouid=117428349273688009894&rtpof=true&sd=true)
-5. 
+1. [Cell Culture Log](https://docs.google.com/spreadsheets/d/1r7vtnx4kZ8BWG5RkK3RbMQlHORterDLoI-ohQ4Ujxuk/edit?usp=sharing): Record information about cell cultures and track PD.
+2. [Bat Sample Collection Sheet](https://docs.google.com/spreadsheets/d/18tWiWcpl7m1aFg0aEWct2BVajQnL0oz4j0pxqZBClSQ/edit?usp=sharing): Master metadata sheet for bat cell lines.
+3. [Vazquez Bat Experience Log](https://docs.google.com/spreadsheets/d/1VfF0xdaoGdIQPWFEjPX89IshsVBhNlrP/edit?usp=sharing&ouid=117428349273688009894&rtpof=true&sd=true): use as template for your caputre log
+4. 
