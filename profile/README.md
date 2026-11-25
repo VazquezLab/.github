@@ -21,6 +21,6 @@ Once you're onboarded, please make sure to create your own repo to keep track of
 ## VIS (Very Important Spreadsheets)
 
 1. [Cell Culture Log](https://docs.google.com/spreadsheets/d/1r7vtnx4kZ8BWG5RkK3RbMQlHORterDLoI-ohQ4Ujxuk/edit?usp=sharing): Record information about cell cultures and track PD.
-2. [Bat Sample Collection Sheet](https://docs.google.com/spreadsheets/d/18tWiWcpl7m1aFg0aEWct2BVajQnL0oz4j0pxqZBClSQ/edit?usp=sharing): Master metadata sheet for bat cell lines.
+2. [Bat Sample Collection Sheet](https://docs.google.com/spreadsheets/d/1eZJr7TRBQ-wgWiOArHbE6BPbXutw2XzMdb6sHarBSRQ/edit?usp=drivesdk): Master metadata sheet for bat cell lines.
 3. [Vazquez Bat Experience Log](https://docs.google.com/spreadsheets/d/1VfF0xdaoGdIQPWFEjPX89IshsVBhNlrP/edit?usp=sharing&ouid=117428349273688009894&rtpof=true&sd=true): use as template for your capture log
 
